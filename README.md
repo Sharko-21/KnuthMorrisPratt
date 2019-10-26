@@ -1,0 +1,1 @@
+It's my own golang-implementation of Knuth-Morris-Pratt algorithm. It's algorithm of substring search.
